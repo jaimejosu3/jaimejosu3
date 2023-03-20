@@ -1,42 +1,67 @@
-### Hi there 👋 i'm Jaime Fonseca, Senior FullStack Developer
+# Hi there 👋 i'm Jaime Fonseca, Senior FullStack Developer
 
-## 💬 About me
-I am a software engineer with more than 8 years of experience in backend development with NodeJS using multiple technologies, I am passionate about the new technologies of javascript and typescript and I enjoy my work, I am always working with personal projects and freelance developments using all my experience.
+I'm a software developer with experience in building modules for enterprise systems using **Python**, **Javascript**, and **NodeJS**. I also have experience in developing web and mobile applications using various technologies such as VueJs, Ionic 5, NodeJs, React, and Typescript. Additionally, I have experience in configuring and managing various servers and databases such as AWS, MongoDB, and MySQL.
 
-I am a fast learner and very self taught adding knowledge every day.
-  
-## Preferences
-💖 I love the backend with nodejs
-  - Rest APIS
-  - Swagger
-  - i18n
-  - NestJS
-  - Much more
-  
-🛹 Typescript/Javascript as development
-
-😊 Ionic, React, Angular, Vue like frontend frameworks
-
-⚡ Jest for testing
-
-🔭 Github Actions, Docker
-
-🔥 Mysql, SQLServer, Firebase, Redis for data
-
-🚀 AWS, GCP for deploy my projects
+## Development Experience
 
 
-<!--
-**jaimejosu3/jaimejosu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Applications
+- VueJs 🤓
+- React with Typescript 🤓
+- Angular 🅰️
 
-Here are some ideas to get you started:
+### Mobile Applications
+- Angular 🅰️
+- Firebase 🔥
+- Ionic 5 ⚡
+- NodeJs 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend and Microservices
+- NodeJs with Express and HapiJS 🚀
+- Java with SpringBoot ☕
+
+### Cloud Technologies
+- AWS ☁️
+  - S3
+  - EC2
+  - AutoScalingGroup
+  - Security Groups
+- Heroku ☁️
+
+### Server Configuration
+- Cloudflare and Namecheap 🌐
+- Nginx
+- Apache
+
+### Databases 🗄️
+- MySQL
+- Redis Cache
+- Rabbit MQ
+- MongoDB
+- PostgreSQL
+
+### Information Systems
+- Odoo 🕸️
+- Blockchain ⛓️
+  - Polygon and Smart Contracts (NFT Project) 💎
+
+### API Integration
+- Banks for E-commerce (Bac, Promerica) 💰
+- External APIs into Internal Systems 📊
+- Google Ecosystems 🌐
+
+### Architecture Design
+- Firebase 🔥
+  - Firestore
+  - Storage
+  - Functions
+  - Hosting
+  - Analytics
+
+## Contact Me 📩
+If you have any questions about any of my projects, or if you're interested in working together, don't hesitate to contact me! You can find me on:
+
+- [LinkedIn 🔗](https://www.linkedin.com/in/jaimejosu3/)
+- [Email 📧](fonsecajaime6a@gmail.com)
+
+Thanks for visiting my profile! 🙏

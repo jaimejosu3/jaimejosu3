@@ -44,6 +44,7 @@ I'm a software developer with experience in building modules for enterprise syst
 - Odoo 🕸️
 - Blockchain ⛓️
   - Polygon and Smart Contracts (NFT Project) 💎
+  - Ethereum contracts development for ERC7579 smart wallets.
 
 ### API Integration
 - Banks for E-commerce (Bac, Promerica) 💰
